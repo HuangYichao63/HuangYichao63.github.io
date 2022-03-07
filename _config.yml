@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   HuangYichao's Personal Blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://HuangYichao63.github.io'
+url: 'https://huang-yichao.xyz'
 
 github:
   username: HuangYichao63            # change to your github username
@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://raw.githubusercontent.com/HuangYichao39/blog-img/main/avatar.jpg'
+img_cdn: 'https://raw.githubusercontent.com/HuangYichao63/blog-img/main/avatar.jpg'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: 
