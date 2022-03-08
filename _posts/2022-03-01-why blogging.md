@@ -39,7 +39,7 @@ tags: []
 
 主题： [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 
 
-步骤：[搭建个人博客](https://huang-yichao.xyz/posts/how-to-build-a-blog-system/)
+步骤：[搭建个人博客指南](https://huang-yichao.xyz/posts/how-to-build-a-blog-system/)
 
 
 
